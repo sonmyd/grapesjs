@@ -6,7 +6,7 @@ meta:
     content: grapesjs getting started
 ---
 
-# Getting Started
+# Getting Started a
 
 This is a step-by-step guide for anyone who wants to create their own builder with GrapesJS. This is not a comprehensive guide, just a concise overview of the most common modules. Follow along to create a page builder from scratch. Skip to the end of this page to see the [final result](#final-result).
 
